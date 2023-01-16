@@ -2,7 +2,7 @@
 
 
   
-- ⭐🎓Iniciante na área.
+- ⭐Iniciante na área.
 - 🎓 Focado sempre em aprender.
 
 <h3> 📌 &nbsp;Skills </h3>
