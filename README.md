@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="350px" align="right">
 
-I are 13 years old, and i can do what your or i need, i have my bests skills in Java, C#, Python and JavaScript.
+I im 13 years old, and i can do what your or i need, i have my bests skills in Java, C#, Python and JavaScript.
 
 
 - 🎓 Focado sempre em aprender.
