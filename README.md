@@ -3,8 +3,10 @@
 I im 13 years old, and i can do what your or i need, i have my bests skills in Java, C#, Python and JavaScript.
 
 
-- 🎓 Focado sempre em aprender.
-- 📌 Simplificar é minha missão.
+- 🎓 Focused on learning more always.
+- 📌 My mission is simplify.
+- 🍷 I always try to make the better code.
+- ⚒️ You can contact me in discord: emanuelvini
 
 <h4>https://github.com/feastplugins</h4>
 
