@@ -1,25 +1,79 @@
-<img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="350px" align="right">
+# Emanuel Vinicius
 
-I im 16 years old, and i can do what your or i need, i have my bests skills in Java, C#, Python and JavaScript.
+AI-native full-stack/backend developer focused on real-time systems, transactional backends, authentication, payment flows, and production-grade web applications.
 
-[Check my portfolio](https://portifolio-frontend-liard.vercel.app/)
+## About
 
-- 🎓 Focused on learning more always.
-- 📌 My mission is simplify.
-- 🍷 I always try to make the better code.
-- ⚒️ You can contact me in discord: emanuelvini
+I build software with a backend-first mindset and full-stack execution. My work is centered on systems that need to be reliable under real usage: auth flows, APIs, admin platforms, payment integrations, transactional state, and real-time features.
 
-<h3> &nbsp;Skills </h3>
+I am a self-taught developer from Brazil. I started early, and most of my experience comes from building and shipping actual systems rather than staying in tutorial territory.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-20232A?style=for-the-badge&logo=csharp)
-![JavaScript](https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-20232A?style=for-the-badge&logo=typescript)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb)
-![Python](https://img.shields.io/badge/python-20232A?style=for-the-badge&logo=python)
-![SQLite](https://camo.githubusercontent.com/932123bf240349f3785c02228b113b06299079e8740f480c767e8335fd6d752a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3037343035453f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465)
+## What I build
 
+- Production-oriented full-stack applications
+- Backend services and internal APIs
+- Authentication, sessions, and access control
+- Payment and webhook integrations
+- Transactional systems, ledgers, balances, and idempotent flows
+- Real-time features with SSE and WebSockets
+- Admin panels and operational tooling
+- Testable deployments on Linux/VPS infrastructure
+
+## Core stack
+
+**Languages**  
+TypeScript, JavaScript, Java, Kotlin, Python
+
+**Web**  
+Next.js, React, Node.js
+
+**Data**  
+PostgreSQL, MySQL, SQLite, Redis, Prisma
+
+**Infrastructure**  
+Docker, Nginx, Linux, VPS deployment, PM2
+
+## Engineering focus
+
+- Backend architecture for stateful and transactional applications
+- API design with predictable contracts and failure handling
+- Redis for locks, coordination, cache, and runtime state
+- Database design with PostgreSQL and Prisma
+- Real-time system design
+- E2E and API testing
+- Operational reliability in production environments
+
+## AI-assisted engineering workflow
+
+I use AI as part of my engineering workflow, not as a replacement for architecture or responsibility.
+
+My process starts with system boundaries: existing patterns, scope, invariants, risky areas, and the behavior that must be preserved. Once that is clear, I use AI to accelerate implementation, tests, refactors, documentation, and UI iteration.
+
+For critical backend areas such as authentication, payment flows, ledgers, idempotency, Redis locks, and transactional state, I keep the core rules centralized and review changes carefully. I also use different models for different tasks, then do the final technical review myself.
+
+AI speeds up execution. Architecture, review, and responsibility stay with me.
+
+## Currently building
+
+- Public backend projects around ledgers, webhooks, idempotency, Redis coordination, and real-time systems
+- Case studies based on private commercial systems, with sensitive details removed
+- Production-style examples focused on architecture, testing, and operational decisions
+
+## Selected work
+
+Some of my most relevant work is private or commercial, so not everything can be shared as public source code.
+
+That said, I can still present the parts that matter from an engineering perspective:
+
+- architecture breakdowns
+- sanitized screenshots
+- technical decisions and tradeoffs
+- case-study style writeups
+- public replicas of isolated patterns and infrastructure
+
+Public repositories here are meant to reflect how I think, structure systems, and ship software.
+
+## Contact
+
+- GitHub: [@emanuelVINI01](https://github.com/emanuelVINI01)
+- Portfolio: [emanuelvini01.vercel.app](https://emanuelvini01.vercel.app/)
