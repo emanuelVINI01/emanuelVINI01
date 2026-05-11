@@ -76,4 +76,4 @@ Public repositories here are meant to reflect how I think, structure systems, an
 ## Contact
 
 - GitHub: [@emanuelVINI01](https://github.com/emanuelVINI01)
-- Portfolio: [emanuelvini01.vercel.app](https://emanuelvini01.vercel.app/)
+- Portfolio: [emanuelvini01.vercel.app](https://emanuelvini.com)
