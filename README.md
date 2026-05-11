@@ -1,4 +1,4 @@
-# Emanuel Vinicius
+# emanuelVINI
 
 AI-native full-stack/backend developer focused on real-time systems, transactional backends, authentication, payment flows, and production-grade web applications.
 
