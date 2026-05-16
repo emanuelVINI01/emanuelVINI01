@@ -4,7 +4,7 @@ Repositório preservado como parte do histórico técnico público do desenvolve
 
 ## Stack identificada
 
-Docker, Ledger, Redis, Transactions
+Não há stack claramente detectável apenas pela estrutura pública.
 
 ## Leitura do repositório
 
